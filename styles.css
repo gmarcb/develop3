@@ -1,0 +1,41 @@
+Body {
+	background: black;
+	color: white;
+	font-family: 'Poiret One', cursive;
+}
+
+.content footer,
+.masthead-heading,
+.masthead-intro {
+	text-align: center;
+}
+
+.masthead-intro {
+	margin-bottom: 0.1em;
+	font-family: 'Oswald', sans-serif;
+	font-size: 2em;
+}
+
+.masthead-intro {
+	margin-bottom: 0.1em:;
+}
+
+.button {
+		text-align: center;
+		color: #2592A3;
+		font-size: 1em;
+		margin: auto;
+		padding: 5;
+}
+a:link, a:visited {
+	color: #00a1bf;
+	text-decoration: none;
+}
+
+.hover{
+		color: #006c7f;
+}
+
+a:active{
+	color: #003640;
+}
